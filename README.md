@@ -8,9 +8,9 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=2580ayush2580.2580ayush2580&style=flat-square&color=0088cc)
 
-I'm a Second year student pursuing Bachelors's in Computer Science 🎓 from JSSATE Noida 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a Second-year student pursuing Bachelors's in Computer Science 🎓 from JSSATE Noida 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-[![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+[![](https://gitwar.herokuapp.com/badge?username=2580ayush2580&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
 <img align='right' src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="375">
 
@@ -48,15 +48,16 @@ I'm a Second year student pursuing Bachelors's in Computer Science 🎓 from JSS
 
 
 <summary><b>⚡ Github Stats</b></summary>
-
+<details open>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2580ayush2580&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2580ayush2580&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+ </details>
 
 
 <summary><b>☄️ Github Streaks</b></summary>
-
+<details open>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=2580ayush2580&hide_border=true" />
-
+</details>
 
 <div align="center">
 
